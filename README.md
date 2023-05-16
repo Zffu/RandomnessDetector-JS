@@ -6,4 +6,5 @@ Randomness Detector is a Javascript lib to check if a string is randomly generat
 **Installation link comming soon**
 
 ## How to use
-To use the Randomness generator you can check the wiki 
+To use the Randomness generator you can check the [Wiki](https://github.com/Zffu/RandomnessDetector-JS/wiki/Getting-Started
+)
