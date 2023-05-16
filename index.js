@@ -121,3 +121,7 @@ class RandomnessDetector {
 	}	
 	
 }
+
+String.prototype.toRandomnessDetector = function() {
+    return new RandomnessDetector(this)
+}
